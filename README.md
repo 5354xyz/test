@@ -1,3 +1,3 @@
 learn git skill
 now in branch dev
-master add
+master add & dev1 add
