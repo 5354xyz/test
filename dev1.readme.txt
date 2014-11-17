@@ -1,2 +1,2 @@
 i am in test02/test/ dev1
-i am  now test01 dev1 -- /Users/xiaoyizong/workspace/test/test
+i am  now test01 dev1 -- /Users/xiaoyizong/workspace/test/test -&- test02 dev1 -- /Users/xiaoyizong/workspace/test02/test
